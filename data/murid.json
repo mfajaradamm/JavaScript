@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "fajar",
+        "nis" : "111",
+        "hobbi" : "badminton",
+        "agama" : "islam",
+        "email" : "fajar@gmail.com"
+    },
+    {
+        "nama" : "rehan",
+        "nis" : "122",
+        "hobbi" : "futsal",
+        "agama" : "islam",
+        "email" : "rehan@gmail.com"
+    },
+    {
+        "nama" : "rendi",
+        "nis" : "133",
+        "hobbi" : "voli",
+        "agama" : "islam",
+        "email" : "rendi@gmail.com"
+    }
+]
